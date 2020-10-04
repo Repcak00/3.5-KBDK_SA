@@ -1,7 +1,7 @@
 !/usr/bin/python
  -*- coding: utf-8 -*-
 from lib import *
-
+#comment
 
 def main():
     # testowa lista zakupów
